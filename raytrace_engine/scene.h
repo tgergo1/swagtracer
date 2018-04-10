@@ -19,7 +19,11 @@
 #include <vector>
 
 class scene{
-    std::vector<object> objects;
+    std::vector<object> solids;
+    std::vector<light> lights;
+    
+public:
+    scene(){}
 };
 
 #endif /* SCENE_H */
