@@ -14,8 +14,13 @@
 #ifndef VECTOR_H
 #define VECTOR_H
 
-class vector{
+struct vector{
+    unsigned int dimension;
+    double* coordinates;
     
+    vector(auto d):dimension(d){
+        coordinates = new auto[d];
+    }
 };
 
 #endif /* VECTOR_H */

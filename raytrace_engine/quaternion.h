@@ -14,7 +14,15 @@
 #ifndef QUATERNION_H
 #define QUATERNION_H
 
+#include "vector.h"
 
+class quaternion{
+    vector v;
+public:
+    quaternion(){
+        v = new vector(4);
+    }
+};
 
 #endif /* QUATERNION_H */
 

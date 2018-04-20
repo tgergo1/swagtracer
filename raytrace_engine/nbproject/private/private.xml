@@ -4,4 +4,20 @@
         <activeConfTypeElem>1</activeConfTypeElem>
         <activeConfIndexElem>0</activeConfIndexElem>
     </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/light_object.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/spline_object.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/object.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/quadratic_object.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/main.cpp</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/mass.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/matrix.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/quaternion.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/photon.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/scene.h</file>
+            <file>file:/home/tgergo1/development/active/raytrace_engine/raytrace_engine/vector.h</file>
+        </group>
+    </open-files>
 </project-private>
